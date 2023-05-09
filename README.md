@@ -6,3 +6,5 @@ Purpose: This website was an assignment for an Advanced Web Design course. A pho
 Bugs: 
 - Drop down menus do not function as intended.
 - Tiny Living image floats out of maximum view width on large screens
+
+**Commit history is unavailable for this project as it was moved from a seperate directory.**
